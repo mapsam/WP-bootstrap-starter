@@ -1,7 +1,7 @@
 WP Bootstrap Starter
 ====================
 
-Wordpress &amp; Bootstrap Starter kit for theme development. **Note**: this is not a WordPress theme, per sey, but rather a starter for you custom theme development built on the Bootstrap framework. This setup relies on a great script by [@twittem](https://github.com/twittem), [WP Bootstrap Navwalker](https://github.com/twittem/wp-bootstrap-navwalker) that gets your WordPress menus working in the Bootstrap framework. He deserves an applause!
+Wordpress &amp; Bootstrap Starter kit for theme development. **Note**: this is not a WordPress theme, *per se*, but rather a starter for you custom theme development built on the Bootstrap framework. This setup relies on a great script by [@twittem](https://github.com/twittem), [WP Bootstrap Navwalker](https://github.com/twittem/wp-bootstrap-navwalker) that gets your WordPress menus working in the Bootstrap framework. He deserves an applause!
 
 **Theme includes:**
 
