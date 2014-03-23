@@ -20,7 +20,7 @@
 		            <span class="icon-bar"></span>
 		            <span class="icon-bar"></span>
 	          	</button>
-	          	<a class="navbar-brand" href="<?php echo home_url(); ?>"><img src="http://placehold.it/100x30"></a>
+	          	<a class="navbar-brand" href="<?php echo home_url(); ?>">Home</a>
 	        </div>
 
 	        <!-- Collect the nav links, forms, and other content for toggling -->
